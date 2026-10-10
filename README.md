@@ -157,8 +157,8 @@ online-deal-scouter/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Ashkillzz/llm_engineering.git
-cd llm_engineering
+git clone https://github.com/Ashkillzz/Online-Deal-Scouter.git
+cd Online-Deal-Scouter
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
